@@ -1,0 +1,14 @@
+{
+  "name": "frontless-landing",
+  "version": "1.0.0",
+  "description": "Landing page for https://frontless.js.org",
+  "main": "index.js",
+  "repository": "https://github.com/nesterow/frontless-landing.git",
+  "author": "Anton Nesterov",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "gulp": "^4.0.2"
+  }
+}
